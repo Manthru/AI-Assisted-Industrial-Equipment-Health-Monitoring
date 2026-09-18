@@ -1,8 +1,8 @@
 <div align="center">
   
-# 🏭 AI-Powered Predictive Maintenance System
+# 🏭 AI-Assisted Industrial Equipment Health Monitoring
 
-**A full-stack, real-time machine learning prediction system for industrial predictive maintenance, bridging the gap between Data Science and Mechatronics Engineering.**
+**A full-stack, real-time machine learning system for industrial equipment monitoring and predictive maintenance, combining Mechanical Engineering and Artificial Intelligence.**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit)](https://streamlit.io)
@@ -15,9 +15,12 @@
 ---
 
 ## 📖 Overview
-In modern Industry 4.0 factories, predicting when a machine will fail before it actually breaks down can save millions of dollars in downtime and maintenance costs.
 
-This project simulates real-time machine/sensor telemetry (such as Rotational Speed, Torque, Air Temperature, and Tool Wear) and streams it into a live digital-twin dashboard. The dashboard processes incoming sensor data point-by-point, dynamically predicting potential failures using an AI Classification model trained to recognize failure signatures before critical damage occurs.
+Modern industrial equipment operates under continuously changing conditions. Monitoring parameters such as rotational speed, torque, temperature, and tool wear can help identify abnormal operating conditions and support maintenance decisions.
+
+This project develops an **AI-assisted industrial equipment health monitoring system** that simulates real-time machine telemetry and uses machine learning to detect potential equipment failures.
+
+The system processes incoming sensor data point-by-point and provides machine health information through an interactive dashboard.
 
 <br>
 
@@ -28,6 +31,19 @@ This project simulates real-time machine/sensor telemetry (such as Rotational Sp
 </div>
 
 <br>
+
+---
+
+## 🎯 Project Objectives
+
+The main objectives of this project are:
+
+- Monitor important industrial equipment parameters such as **Rotational Speed, Torque, Air Temperature, Process Temperature, and Tool Wear**.
+- Identify abnormal operating conditions and potential equipment failures.
+- Apply machine learning for **equipment failure detection**.
+- Analyze equipment degradation using historical time-series data.
+- Develop a foundation for **condition-based and predictive maintenance**.
+- Provide an interactive dashboard for real-time equipment monitoring.
 
 ---
 
