@@ -31,7 +31,6 @@ The system processes incoming sensor data point-by-point and provides machine he
 </div>
 
 <br>
-
 ---
 
 ## 🎯 Project Objectives
