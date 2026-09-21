@@ -2,7 +2,7 @@
   
 # 🏭 AI-Assisted Industrial Equipment Health Monitoring
 
-**A full-stack, real-time machine learning system for industrial equipment monitoring and predictive maintenance, combining Mechanical Engineering and Artificial Intelligence.**
+**A full-stack, real-time machine learning system for industrial equipment monitoring and predictive maintenance, combining Mechanical Engineering and Artificial Intelligence .**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit)](https://streamlit.io)
