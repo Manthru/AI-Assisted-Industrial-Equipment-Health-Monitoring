@@ -47,7 +47,7 @@ The main objectives of this project are:
 
 ---
 
-## 🔬 Technical Deep Dive & Code Architecture
+### 🔬 Technical Deep Dive & Code Architecture
 
 The core architecture of this system is divided into multiple decoupled modules focusing on robust data pipelines and machine learning inference.
 
